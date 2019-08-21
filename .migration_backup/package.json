@@ -58,9 +58,10 @@
     "lazy": "1.0.11",
     "mobile-devices-controller": "^2.4.8",
     "nativescript-dev-appium": "^3.3.0",
+    "nativescript-dev-typescript": "^0.10.0",
     "nativescript-dev-webpack": "^1.1.0",
     "node-sass": "4.12.0",
-    "typescript": "3.4.5",
+    "typescript": "~3.5.3",
     "uglifyjs-webpack-plugin": "~1.2.5"
   },
   "scripts": {

@@ -61,8 +61,8 @@
   <string name="_about_realworld_Z1YNVKo">"This app is an exemplary project to show how a Medium.com clone (called Conduit) is built using NativeScript to connect to any other backend from "</string>
   <string name="_general_close_1X64mW">"Close"</string>
   <string name="_general_save_1GXi6l">"Save"</string>
-  <string name="_description_Z22xK3K">"A NativeScript RealWorld Example App"</string>
-  <string name="_title_7XfKt">"Conduit"</string>
+  <string name="description">"A NativeScript RealWorld Example App"</string>
+  <string name="title">"Conduit"</string>
   <string name="_app_name_1k3Sbz">"Conduit"</string>
   <string name="app_name">"Conduit"</string>
   <string name="title_activity_kimera">"Conduit"</string>
